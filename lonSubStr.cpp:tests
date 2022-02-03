@@ -1,0 +1,26 @@
+[
+	{
+		"correct_answers":
+		[
+			"3\n\nTime : 0.000138 s \nCoded by Mr. Black-D3vil",
+			"3\n\nTime : 0.000025 s \nCoded by Mr. Black-D3vil"
+		],
+		"test": "abcabcbb\n"
+	},
+	{
+		"correct_answers":
+		[
+			"1\n\nTime : 0.000031 s \nCoded by Mr. Black-D3vil",
+			"1\n\nTime : 0.000097 s \nCoded by Mr. Black-D3vil"
+		],
+		"test": "bbbbbb\n"
+	},
+	{
+		"correct_answers":
+		[
+			"3\n\nTime : 0.000117 s \nCoded by Mr. Black-D3vil",
+			"3\n\nTime : 0.000030 s \nCoded by Mr. Black-D3vil"
+		],
+		"test": "pwwkew\n"
+	}
+]

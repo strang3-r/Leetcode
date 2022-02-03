@@ -1,0 +1,16 @@
+[
+	{
+		"correct_answers":
+		[
+			"7\n\nTime : 0.000138 s \nCoded by Mr. Black-D3vil"
+		],
+		"test": "5\n7 6 4 3 1\n"
+	},
+	{
+		"correct_answers":
+		[
+			"7\n\nTime : 0.000155 s \nCoded by Mr. Black-D3vil"
+		],
+		"test": "6\n7 1 5 3 6 4\n"
+	}
+]

@@ -1,0 +1,36 @@
+[
+	{
+		"correct_answers":
+		[
+			"4 5 6 1 2 3 \nTime : 0.000019 s \nCoded by Mr. Black-D3vil",
+			"3 4 5 6 1 2 \nTime : 0.000036 s \nCoded by Mr. Black-D3vil",
+			"5 6 1 2 3 4 \nTime : 0.000034 s \nCoded by Mr. Black-D3vil"
+		],
+		"test": "6\n2\n1 2 3 4 5 6\n"
+	},
+	{
+		"correct_answers":
+		[
+			"5 6 1 2 3 4 \nTime : 0.000022 s \nCoded by Mr. Black-D3vil",
+			"4 5 6 1 2 3 \nTime : 0.000035 s \nCoded by Mr. Black-D3vil",
+			"3 4 5 6 1 2 \nTime : 0.000020 s \nCoded by Mr. Black-D3vil"
+		],
+		"test": "6 2\n1 2 3 4 5 6\n"
+	},
+	{
+		"correct_answers":
+		[
+			"99 -1 -100 3 \nTime : 0.000022 s \nCoded by Mr. Black-D3vil",
+			"3 99 -1 -100 \nTime : 0.000023 s \nCoded by Mr. Black-D3vil"
+		],
+		"test": "4 2\n-1 -100 3 99\n"
+	},
+	{
+		"correct_answers":
+		[
+			"5 6 7 1 2 3 4 \nTime : 0.000021 s \nCoded by Mr. Black-D3vil",
+			"5 6 7 1 2 3 4 \nTime : 0.000038 s \nCoded by Mr. Black-D3vil"
+		],
+		"test": "7 3\n1 2 3 4 5 6 7\n"
+	}
+]

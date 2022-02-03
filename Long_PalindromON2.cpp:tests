@@ -1,0 +1,17 @@
+[
+	{
+		"correct_answers":
+		[
+			"bab\n\nTime : 0.000016 s \nCoded by Mr. Black-D3vil",
+			"bab\n\nTime : 0.000098 s \nCoded by Mr. Black-D3vil"
+		],
+		"test": "babad\n"
+	},
+	{
+		"correct_answers":
+		[
+			"bb\n\nTime : 0.000026 s \nCoded by Mr. Black-D3vil"
+		],
+		"test": "cbbd\n"
+	}
+]
