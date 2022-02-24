@@ -55,7 +55,7 @@ public:
 			}
 		}
 		for (int i = 0; i < n; ++i) {
-			int x = arr[i];
+			int x = abs(arr[i]);
 			if (x <= n and arr[x-1] > 0) {
 				arr[x - 1] = - arr[x - 1];
 			}
